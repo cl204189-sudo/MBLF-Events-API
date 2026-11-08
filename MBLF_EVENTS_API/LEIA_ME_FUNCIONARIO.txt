@@ -1,0 +1,13 @@
+API FUNCIONARIO - CORRECAO
+
+O FuncionarioController.java JA ESTAVA PRESENTE no ZIP enviado, mas nao na pasta mostrada no seu IDE.
+
+1. Pare a API atual.
+2. Abra ESTA pasta demoApiVersao23082026 como projeto Maven.
+3. Confirme src/main/java/com/example/demoApiVersao23082026/controller/FuncionarioController.java
+4. Execute a aplicacao desta pasta e verifique a porta 8080.
+5. Teste logado como FUNCIONARIO.
+
+Endpoints: GET /funcionario/minhas-permissoes, /funcionario/usuarios, /funcionario/eventos.
+Os dois ultimos exigem permissoes individuais.
+Nao compartilhe credenciais reais contidas no application.properties.
